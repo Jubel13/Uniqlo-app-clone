@@ -15,6 +15,6 @@ Google play store: https://play.google.com/store/apps/details?id=host.exp.expone
 
 To view this app, go to this link: https://expo.dev/@jubelsinaga/uniqlo-clone, and scan the barcode with `expo go` app
 
-This app only features is to view products and detail of the products
+This app features are to view products and detail of the products
 
 
