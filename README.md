@@ -10,6 +10,7 @@ To view this app, you need `expo go` installed on your system
 Expo go can be found in `app store` or `play store`
 
 Apple: https://apps.apple.com/us/app/expo-go/id982107779
+
 Google play store: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US
 
 To view this app, go to this link: https://expo.dev/@jubelsinaga/uniqlo-clone, and scan the barcode with `expo go` app
